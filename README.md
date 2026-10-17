@@ -37,7 +37,7 @@ Discord'un `/messages/search` uç noktası sık sık `total_results > 0` ama bo�
 
 ### Kullanım
 
-1. [`[discord-message-cleaner-v3.js](https://github.com/mymarius/Discord-Message-Cleaner/blob/main/discord%20message%20cleaner.js)`] dosyasının içeriğini kopyala.
+1. [`[discord-message-cleaner-v3.js`](https://github.com/mymarius/Discord-Message-Cleaner/blob/main/discord%20message%20cleaner.js)] dosyasının içeriğini kopyala.
 2. Discord'u **masaüstü tarayıcıda** aç: `https://discord.com/app`. Temizlemek istediğin kanala gir.
 3. `F12` ile Developer Tools'u aç ve **Console** sekmesine geç.
 4. Kodu yapıştırıp `Enter`'a bas. Açılan popup için **popup iznini ver**.
