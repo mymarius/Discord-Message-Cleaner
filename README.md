@@ -69,7 +69,7 @@ Hata bildirimleri ve pull request'ler açıktır. Lütfen sorun açarken token, 
 
 ### Lisans ve emeği geçenler
 
-[MIT](./LICENSE). Fikir olarak [victornpb/deleteDiscordMessages](https://github.com/victornpb/deleteDiscordMessages) (MIT) projesinden esinlenilmiştir. Kod bağımsız olarak yeniden yazılmıştır. Discord ile bağlantısı yoktur.
+[MIT](./LICENSE). Fikir olarak [victornpb/deleteDiscordMessages]([https://github.com/mymarius/Discord-Message-Cleaner](https://github.com/mymarius/Discord-Message-Cleaner)) (MIT) projesinden esinlenilmiştir. Kod bağımsız olarak yeniden yazılmıştır. Discord ile bağlantısı yoktur.
 
 ---
 
